@@ -19,7 +19,7 @@ namespace Lesson10
                 int _year = 22;
                 string team = "WinnerTeam";
                 //
-                if (_posY < 10 && name[0] == 'I' || !_isRun)
+                if (_posY < 10 && name[0] == 'B' || !_isRun)
                 {
                     Console.WriteLine(true + 1.ToString()); //false
                 }
